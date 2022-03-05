@@ -2,12 +2,12 @@
 #DESCRIPTION
 Introducing REST APIs 
 
-#Installation
+# Installation
 Windows 32/64
 Linux
 MacOS
 
-#ADDITIONAL INFO
+# ADDITIONAL INFO
 pip install python
 touch app.py
 git status
